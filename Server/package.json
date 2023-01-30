@@ -1,0 +1,30 @@
+{
+  "name": "alisa-khodadadi-portfolio",
+  "version": "1.0.0",
+  "description": "These are the codes related to my portfolio hosted at Alisakh.com , made open source, feel free to use it as you wish , and as always happy coding :)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Portfolio",
+    "Express",
+    "React-Portfolio",
+    "Web-Portfolio"
+  ],
+  "author": "Alisa Khodadadi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.31.3",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
